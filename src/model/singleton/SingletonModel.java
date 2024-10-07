@@ -1,4 +1,4 @@
-package model;
+package model.singleton;
 
 public class SingletonModel {
     private static SingletonModel instancia;
